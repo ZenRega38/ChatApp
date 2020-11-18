@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19539698876",
+    "firebase_url": "https://chat-app-7a655.firebaseio.com",
+    "project_id": "chat-app-7a655",
+    "storage_bucket": "chat-app-7a655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19539698876:android:80e718f384916fe665dcb9",
+        "android_client_info": {
+          "package_name": "com.regadeveloper.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19539698876-0t05q1otj04e9u81b79ql78q61mrip5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.regadeveloper.chatapp",
+            "certificate_hash": "a3869f3616b06d5e94e0098e6bd9cdf70cee8e40"
+          }
+        },
+        {
+          "client_id": "19539698876-9999rsvtim7rh02uj58h0pl9j89gtfaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1kIIVHhgqdHY8xKRHAe9BGW8NOczYgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19539698876-9999rsvtim7rh02uj58h0pl9j89gtfaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
